@@ -12,8 +12,13 @@ ul li{
 }
 
 #navbar {
-   background-color: rgb(177, 218, 235);
+   background-color: rgb(175, 180, 182);
+   padding: 1px;
+   font-size: 70%;
+   line-height: 5px;
+   padding-top: 5px;
 }
+
 #footer {
    background-color: rgb(245, 209, 249);
     border:0px solid rgb(0, 0, 0);
@@ -41,27 +46,34 @@ img{
    border: 1px solid black;
 }
 
+.logo{
+   text-align: center;
+   padding: 1px;
+}
+
 /*Estilos del Banner*/
 
 /*Banner1*/
 #banner-container{
    /*background: url("/banner.png");*/
-   background: #fff url(/imagecat.jpg) center center/cover no-repeat content-box;
+   background: #fff url(/banner1.jpg) center center/cover no-repeat content-box;opacity: 70%;
    
 }
 
 h1{
    font-size: 40px;
-   padding: 20px 40px;
-   margin: 80px;
-   color: rgb(0, 0, 0);
+   padding: 10px 40px;
+   margin: 5%;
+   color: rgb(255, 255, 255);
+   text-align: right;
 }
 
 #lead{
    padding: 10px 40px;
    margin: 10px;
-   color: rgb(0, 0, 0);
+   color: rgb(255, 255, 255);
    text-decoration: underline;
+   text-align: right;
 }
 
 /*Banner 2*/
@@ -81,6 +93,8 @@ h1{
 
 #img2{ 
    opacity: 0.7;
+   height: 50%;
+   width: 30%;
 }
 
 
