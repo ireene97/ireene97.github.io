@@ -20,10 +20,10 @@ ul li{
 }
 
 #footer {
-   background-color: rgb(245, 209, 249);
+   background-color: rgb(175, 180, 182);
     border:0px solid rgb(0, 0, 0);
-    padding: 7px;
-    margin: 15px;
+    padding: 0px;
+    margin: 0px;
  }
 
 body{
@@ -95,6 +95,25 @@ h1{
    opacity: 0.7;
    height: 50%;
    width: 30%;
+}
+
+.columnas{
+   text-align: center;
+   display: inline-block;
+   border: 2px solid black;
+   margin: 0 auto;
+   width: 15%;
+   padding: 5px;
+}
+
+.img2{
+   text-align: center;
+   width: 25%;
+   height: 25%;
+   }
+
+#proyectos{
+   text-align: center;
 }
 
 
