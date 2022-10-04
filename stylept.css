@@ -14,7 +14,7 @@ ul li{
 #navbar {
    background-color: rgb(175, 180, 182);
    padding: 1px;
-   font-size: 70%;
+   font-size: 75%;
    line-height: 5px;
    padding-top: 5px;
 }
@@ -110,10 +110,12 @@ h1{
    text-align: center;
    width: 25%;
    height: 25%;
+   border: 2px solid black;
    }
 
 #proyectos{
    text-align: center;
+   background-color: rgb(203, 203, 203);
 }
 
 
