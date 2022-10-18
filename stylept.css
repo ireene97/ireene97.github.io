@@ -4,15 +4,19 @@ ul{
    display: inline-block;
 
 }
+
+p{
+   color:white;
+}
 ul li{
    display: inline-block;
-   border: 2px solid rgb(0, 0, 0);
+   border: 2px solid rgb(255, 255, 255);
    padding: 7px;
    margin: 15px;
 }
 
 #navbar {
-   background-color: rgb(175, 180, 182);
+   background-color: rgb(131, 71, 139);
    padding: 1px;
    font-size: 75%;
    line-height: 5px;
@@ -20,7 +24,7 @@ ul li{
 }
 
 #footer {
-   background-color: rgb(175, 180, 182);
+    background-color: rgb(131, 71, 139);
     border:0px solid rgb(0, 0, 0);
     padding: 0px;
     margin: 0px;
@@ -31,8 +35,8 @@ body{
 }
 
 a{
-   color:black;
-   text-decoration: black;
+   color:rgb(255, 255, 255);
+   text-decoration: rgb(255, 255, 255);
    font-weight: 600;
    font-family: 'Verdana';
 }
@@ -43,7 +47,7 @@ img{
 }
 
 .border{
-   border: 1px solid black;
+   border: 1px solid rgb(248, 247, 247);
 }
 
 .logo{
@@ -100,7 +104,7 @@ h1{
 .columnas{
    text-align: center;
    display: inline-block;
-   border: 2px solid black;
+   border: 2px solid rgb(255, 255, 255);
    margin: 0 auto;
    width: 15%;
    padding: 5px;
@@ -110,12 +114,12 @@ h1{
    text-align: center;
    width: 50%;
    height: 50%;
-   border: 2px solid black;
+   border: 2px solid rgb(255, 255, 255);
    }
 
 #proyectos{
    text-align: center;
-   background-color: rgb(203, 203, 203);
+   background-color: rgb(160, 113, 167);
 }
 
 ul{
